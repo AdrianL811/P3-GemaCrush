@@ -1,4 +1,4 @@
-# Gema Lab — Fusión 💎
+# GemaCrush 💎
 
 Proyecto de práctica de React Native, Expo y Expo Router, desarrollado **a partir del código de la Lección 15 / proyecto `test-2026-2`**. El proyecto inicial ya tenía cuatro filas de celdas, PanResponder, Animated, temporizador y navegación básica. Esta versión implementa las reglas reales del juego, puntuaciones y diseño visual.
 
@@ -51,7 +51,7 @@ npx expo start -c
 - `src/game/engine.ts`: reglas puras de creación, fusión, validación, reposición y mezclado. Independiente de la interfaz.
 - `src/theme.ts`: paleta de colores, estilos globales y seis niveles de gemas.
 - `src/components/ActionButton.tsx` y `Brand.tsx`: elementos visuales reutilizables.
-- `assets/images/`: ícono y pantalla de inicio de Gema Lab.
+- `assets/images/`: ícono y pantalla de inicio de GemaCrush.
 - `tests/engine.test.mjs`: pruebas unitarias de las reglas del tablero.
 
 ### Gráficos
